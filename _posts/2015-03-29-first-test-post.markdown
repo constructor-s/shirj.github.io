@@ -30,3 +30,10 @@ The current time:
 A file:
 
 [This is a link!]({{ site.url }}/assets/IMG_0232.JPG)
+
+{% for doc in site.static_files %}
+{% if doc.extname != ".html" and doc.extname != "" %}
+[{{ site.url }}{{ doc.path }}]({{ site.url }}{{ doc.path }})
+filetype:{{doc.extname}}
+{% endif %}
+{% endfor %}

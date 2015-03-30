@@ -26,3 +26,7 @@ The current time:
 <span style="color:orange;">
 {{ site.time | date_to_xmlschema }}
 </span>
+
+A file:
+
+[This is a link!]({{ site.url }}/assets/IMG_0232.JPG)

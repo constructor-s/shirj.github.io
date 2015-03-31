@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MSE Question 1F5"
-date:   2015-03-31 00:33:10
+date:   2015-03-31 00:33:10 -0400
 categories: MSE160
 ---
 

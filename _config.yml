@@ -11,4 +11,4 @@ github_username:  shirj
 # Build settings
 markdown: kramdown
 
-timezone = "America/Toronto"
+timezone = America/Toronto

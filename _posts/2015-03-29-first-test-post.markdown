@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Test Post"
-date:   2015-03-29 18:25:30
+date:   2015-03-29 18:25:30 -0400
 categories: Test
 ---
 This website is built upon Jekyll.

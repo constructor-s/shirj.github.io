@@ -15,6 +15,8 @@ Use conversion from weight percent to mass per unit volume) to convert the conce
 
 <b>Answer</b>
 
+<b>2.3*10<sup>-11</sup> m<sup>2</sup>/s</b>
+
 <b>Source</b>
 
 Textbook (Material Science and Engineering 9th Edition) Question: <i>5.10</i>

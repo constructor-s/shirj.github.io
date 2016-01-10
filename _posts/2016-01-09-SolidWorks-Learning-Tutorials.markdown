@@ -7,6 +7,7 @@ categories: Test
 Second semester of Second Year Engineering Science at University of Toronto is the grand finale of the two foundation years in this program, and of course with the intense AER201 robotic design course. Now that I have been officially assigned the role of the electro-mechanics, I found these introductory SolidWorks tutorials that one might find helpful. All of these are from the official "SolidWorks for the Engineering Design Process" series.
 
 <b>Lesson 00: Introduction: 3D Design Overview</b>
+
 This is an overview of SolidWorks in the Engineering Design Process. It wasn't particularly helpful in terms of SolidWorks skills.
 
 [Section 01](http://solid.hts.vidavee.com/vidad/tribeca.vidavee.com/solidworks/solidworks/98CE0FCCE5C7327300CA9401E92ABE80.mp4)
@@ -16,12 +17,12 @@ This is an overview of SolidWorks in the Engineering Design Process. It wasn't p
 [Section 03](http://solid.hts.vidavee.com/vidad/tribeca.vidavee.com/solidworks/solidworks/34BBD208943E818A9342B7AC26BF315C.mp4)
 
 <b>Lesson 01: Introduction: 3D Design Overview</b>
+
 This is a very helpful quick overview of SolidWorks.
 
 [Section 01](http://solid.hts.vidavee.com/vidad/tribeca.vidavee.com/solidworks/solidworks/70A1778B4DB32666C8E44D2409818821.mp4)
 
-[Section 02](http://solid.hts.vidavee.com/vidad/tribeca.vidavee.com/solidworks/solidworks/968757B0293748EDF97DFBE365B6E99C.mp4)
-* I think SolidWorks mistakenly put L00S02 for this one on their server.
+[Section 02](http://174.121.163.191/~cadcam/videos/lesson1/02-Creating%20your%20first%203D%20Model.mp4)
 
 [Section 03](http://solid.hts.vidavee.com/vidad/tribeca.vidavee.com/solidworks/solidworks/5168457D4BE00CDF7FA0A06250DFF0E6.mp4)
 

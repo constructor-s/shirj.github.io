@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SolidWorks Learning Tutorials"
-date:   2015-01-09 20:04:00 -0400
+date:   2016-01-09 20:04:00 -0400
 categories: Test
 ---
 Second semester of Second Year Engineering Science at University of Toronto is the grand finale of the two foundation years in this program, and of course with the intense AER201 robotic design course. Now that I have been officially assigned the role of the electro-mechanics, I found these introductory SolidWorks tutorials that one might find helpful. All of these are from the official "SolidWorks for the Engineering Design Process" series.
